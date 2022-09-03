@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/it_data_kelas"
+        android:icon="@drawable/ic_baseline_data_kelas"
+        android:title=""/>
+    <item
+        android:id="@+id/it_data_user"
+        android:icon="@drawable/ic_baseline_data_user"
+        android:title=""/>
+
+</menu>
